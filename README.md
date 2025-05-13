@@ -21,7 +21,7 @@ Fork on GitHub0
 
 - 💬 Ask me about **Golang/Rust/Javascript/Java/Assembly**
 
-- 📫 How to reach me **emmanueldieng294@gmail.com**
+- 📫 How to reach me on Gmail **emmanueldieng294@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
